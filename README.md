@@ -169,8 +169,3 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions, feel free to [open an issue](https://github.com/Akrishna4/MERN-task-management-tool/issues) or submit a pull request.
 
 ```
-
----
-
-You can copy-paste this directly into your `README.md` file. Let me know if you'd like to include project badges or demo screenshots!
-```
