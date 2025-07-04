@@ -7,7 +7,6 @@ exclude:
   - .gitignore
   - README.md
   - yarn.lock
-  - *.log
-  - *.json
-  - *.env
-  
+  - "*.log"
+  - "*.json"
+  - ".env"
