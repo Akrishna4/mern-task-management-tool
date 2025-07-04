@@ -1,0 +1,12 @@
+exclude:
+  - backend/
+  - node_modules/
+  - package-lock.json
+  - package.json
+  - .github/
+  - .gitignore
+  - README.md
+  - yarn.lock
+  - *.log
+  - *.json
+  - *.env
